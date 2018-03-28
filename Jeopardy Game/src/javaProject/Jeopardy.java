@@ -18,7 +18,7 @@ import java.awt.FlowLayout;
 import java.awt.Color;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-//Calendar 
+
 public class Jeopardy extends JFrame implements ActionListener{
 	
 	/*
@@ -103,7 +103,7 @@ public class Jeopardy extends JFrame implements ActionListener{
 						+ "3. Click on the chosen box for the question. \n"
 						+ "4. Correct responses must satisfy the demands of both the clue and the category. \n"
 						+ "5. Responses must be spelled correctly \n"
-						+ "6. Click the ìResetî button to start all over.\n"
+						+ "6. Click the ‚ÄúReset‚Äù button to start all over.\n"
 						+ "7. Player with highest dollar amount at end of game wins", "Rules of Jeopardy",
 						JOptionPane.INFORMATION_MESSAGE);
 				
